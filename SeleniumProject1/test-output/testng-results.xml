@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+<<<<<<< HEAD
+  <suite started-at="2022-08-21T18:59:08 IST" name="Default suite" finished-at="2022-08-21T18:59:08 IST" duration-ms="116">
+    <groups>
+    </groups>
+    <test started-at="2022-08-21T18:59:08 IST" name="Default test" finished-at="2022-08-21T18:59:08 IST" duration-ms="116">
+      <class name="pkg_SeleniumPractice.TestNGAnnotation3">
+        <test-method signature="TC_01()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation3@61d6015a]" started-at="2022-08-21T18:59:08 IST" name="TC_01" finished-at="2022-08-21T18:59:08 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_02()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation3@61d6015a]" started-at="2022-08-21T18:59:08 IST" name="TC_02" finished-at="2022-08-21T18:59:08 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method signature="TC_03()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation3@61d6015a]" started-at="2022-08-21T18:59:08 IST" name="TC_03" finished-at="2022-08-21T18:59:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+        <test-method signature="TC_04()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation3@61d6015a]" started-at="2022-08-21T18:59:08 IST" name="TC_04" finished-at="2022-08-21T18:59:08 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04 -->
+        <test-method signature="TC_05()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation3@61d6015a]" started-at="2022-08-21T18:59:08 IST" name="TC_05" finished-at="2022-08-21T18:59:08 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05 -->
+      </class> <!-- pkg_SeleniumPractice.TestNGAnnotation3 -->
+=======
+  <suite started-at="2022-08-21T18:16:14 IST" name="Default suite" finished-at="2022-08-21T18:16:14 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2022-08-21T18:16:14 IST" name="Default test" finished-at="2022-08-21T18:16:14 IST" duration-ms="98">
+      <class name="pkg_SeleniumPractice.TestNGAnnotation2">
+        <test-method signature="TC_01()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation2@7e9131d5]" started-at="2022-08-21T18:16:14 IST" name="TC_01" finished-at="2022-08-21T18:16:14 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_02()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation2@7e9131d5]" started-at="2022-08-21T18:16:14 IST" name="TC_02" finished-at="2022-08-21T18:16:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method signature="TC_03()[pri:0, instance:pkg_SeleniumPractice.TestNGAnnotation2@7e9131d5]" started-at="2022-08-21T18:16:14 IST" name="TC_03" finished-at="2022-08-21T18:16:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+      </class> <!-- pkg_SeleniumPractice.TestNGAnnotation2 -->
+>>>>>>> 82112b0095bebaed7f65c90f02fcc715262703e6
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
